@@ -14,5 +14,5 @@ var $box = $(".isotope-box").isotope({
     $box.isotope({ filter: filterValue });
   });
   
-  // change is-checked class on buttons
+
   
