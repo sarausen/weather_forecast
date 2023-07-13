@@ -15,7 +15,7 @@ body {
 }
 
 .section {
-  color: #fff;
+  color: #c66565;
   width: 100%;
   position: relative;
   min-height: 100vh;
@@ -57,14 +57,12 @@ body {
   letter-spacing: 0.5px;
 }
 
-/* Buttons */
-
 button {
   display: inline-block;
   padding: 10px 20px;
   margin: 0px 5px;
   background-color: #fff;
-  color: #4b52b6;
+  color: #1c5c57;
   font-size: 12px;
   font-weight: 800;
   letter-spacing: 0.5px;

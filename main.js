@@ -1,6 +1,3 @@
-// external js: isotope.pkgd.js
-
-// init Isotope elements
 var $box = $(".isotope-box").isotope({
     itemSelector: ".isotope-item"
   });
